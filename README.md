@@ -51,10 +51,10 @@ Searchor
 ========
 
 
-<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ArjunSharda&repo=Searchor&countColorcountColor&countColor=%237B1E7B"/>
-<img align="right" src="https://img.shields.io/github/repo-size/ArjunSharda/Searchor?style=for-the-badge&logo=appveyor" alt="GitHub repo size"/>
+<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AnantKumar&repo=Searchor&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://img.shields.io/github/repo-size/AnantKumar/Searchor?style=for-the-badge&logo=appveyor" alt="GitHub repo size"/>
 
-<img align="right" alt="Json-Generator" src="https://socialify.git.ci/ArjunSharda/Searchor/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2FArjunSharda%2FSearchor%2Fblob%2Fmain%2Fext%2Fsearchor.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" />
+<img align="right" alt="Json-Generator" src="https://socialify.git.ci/AnantKumar/Searchor/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2FAnantKumar%2FSearchor%2Fblob%2Fmain%2Fext%2Fsearchor.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" />
 
 <p align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt=" forks"/>
@@ -62,7 +62,7 @@ Searchor
 
 ![PyPI](https://img.shields.io/pypi/v/searchor?color=green&logo=python&logoColor=green)
 [![Discord](https://img.shields.io/discord/1026470859868741662)](https://discord.gg/fPXNMW7swn)
-<div style="text-align: center; display: grid; justify-content: center;"><img style="margin: auto; margin-bottom: 1rem; border-radius: 30%;" height="150" width="150" src="https://raw.githubusercontent.com/ArjunSharda/Searchor/main/ext/searchor.png"/></div>
+<div style="text-align: center; display: grid; justify-content: center;"><img style="margin: auto; margin-bottom: 1rem; border-radius: 30%;" height="150" width="150" src="https://raw.githubusercontent.com/AnantKumar/Searchor/main/ext/searchor.png"/></div>
 
 
 Installation
@@ -92,7 +92,7 @@ $ searchor Google "Hello World!" --copy
 <br>
 </br>
 
-Take a look at more examples in the [examples](https://github.com/ArjunSharda/Searchor/tree/main/examples) folder!
+Take a look at more examples in the [examples](https://github.com/20BCE11035/Searchor/tree/main/examples) folder!
 
 *Note*:&nbsp; Engine names follow the **UpperCamelCase** convention.(eg: ChromeWebStore).
 
@@ -118,7 +118,7 @@ Engine.Google.search("Hello, World!")
 Take a look at the [contributing guidelines](CONTRIBUTING.md)!
 
 <hr>
-<h6 align="center">© Arjun Sharda 2022 
+<h6 align="center">© Anant Kumar 2024 
 <br>
 All Rights Reserved</h6>
 
