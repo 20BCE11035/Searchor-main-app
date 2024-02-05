@@ -118,7 +118,7 @@ Engine.Google.search("Hello, World!")
 Take a look at the [contributing guidelines](CONTRIBUTING.md)!
 
 <hr>
-<h6 align="center">© Anant Kumar 2024 
+<h6 align="center">© AnantKumar 2024 
 <br>
 All Rights Reserved</h6>
 
